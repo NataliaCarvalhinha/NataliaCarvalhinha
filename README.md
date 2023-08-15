@@ -16,5 +16,5 @@ My areas of learning are in both backend and frontend development. In the realm 
 <div>
   <a href="https://github.com/NataliaCarvalhinha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NataliaCarvalhinha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafabelanini&layout=donut&langs_count=16&theme=dracula"/>
+   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliacarvalhinha&layout=donut&langs_count=16&theme=dracula"/>
 </div>
