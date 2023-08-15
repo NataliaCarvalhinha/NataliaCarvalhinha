@@ -5,7 +5,7 @@ Minhas áreas de aprendizado são na área do backend e frontend. No campo do de
 
 
 I am currently working on two projects: the meteor integrator program and the GLANCE project in partnership with CERN.
-My areas of learning are in both backend and frontend development. In the realm of backend development, I am acquiring knowledge in languages like PHP and delving into the construction of web pages using HTML. On the frontend development side, I am studying Vue.js and Vuetify, tools that facilitate the creation of attractive and interactive user interfaces.
+My areas of learning are in both backend and frontend development. In the realm of backend development, I am acquiring knowledge in languages like PHP and delving into the construction of web pages using HTML. On the frontend development side, I am studying Vue.js and Vuetify, tools that facilitate the creation of attractive and interactive user interfaces. 
 
 
 
