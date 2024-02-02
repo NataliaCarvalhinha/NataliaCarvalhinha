@@ -13,6 +13,8 @@ Eu sou estudante de Engenharia Eletrônica e da Computação. Atualmente, estou 
   <img align="center" alt="Nati-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Nati-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Nati-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" />
+
+  
 </div>
 
 
