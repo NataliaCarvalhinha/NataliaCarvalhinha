@@ -1,5 +1,6 @@
-### Hi there
+### Olá, eu sou Natalia Carvalhinha! 👋
 
+Eu sou estudante de Engenharia Eletrônica e da Computação. Atualmente, estou dedicando meu tempo ao aprendizado e aprimoramento em diversas áreas, buscando sempre desafios que me permitam crescer como profissional.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nati-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
