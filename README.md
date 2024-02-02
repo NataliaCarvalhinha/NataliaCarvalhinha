@@ -3,10 +3,10 @@
 Eu sou estudante de Engenharia Eletrônica e da Computação. Atualmente, estou dedicando meu tempo ao aprendizado e aprimoramento em diversas áreas, buscando sempre desafios que me permitam crescer como profissional.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nataliacarvalhinha" />
+  <img height=100 width="40" align="center" src="https://github-readme-stats.vercel.app/api?username=nataliacarvalhinha" />
 </a>
 <a href="https://github.com/nataliacarvalhinha/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nataliacarvalhinha&layout=compact&langs_count=8&card_width=320" />
+  <img height=100 width="40" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nataliacarvalhinha&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 
