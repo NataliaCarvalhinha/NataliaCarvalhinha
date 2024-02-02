@@ -10,7 +10,7 @@ Eu sou estudante de Engenharia Eletrônica e da Computação. Atualmente, estou 
   <img align="center" alt="Nati-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" />
 </div>
   
-  ##
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliacarvalhinha&layout=compact)
  
 <div> 
   <a href = "mailto:natalia.carvalhinha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
