@@ -3,7 +3,7 @@
 Eu sou estudante de Engenharia Eletrônica e da Computação. Atualmente, estou dedicando meu tempo ao aprendizado e aprimoramento em diversas áreas, buscando sempre desafios que me permitam crescer como profissional.
 
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliacarvalhinha&layout=compact icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliacarvalhinha&layout=compact)
 
 
 
@@ -14,6 +14,8 @@ Eu sou estudante de Engenharia Eletrônica e da Computação. Atualmente, estou 
   <img align="center" alt="Nati-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Nati-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" />
 </div>
+
+
 
  
 <div> 
