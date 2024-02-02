@@ -1,12 +1,12 @@
-### Olá, eu sou Natalia Carvalhinha! 👋
+### Olá, eu sou Natalia Carvalhinha! 
 
 Eu sou estudante de Engenharia Eletrônica e da Computação. Atualmente, estou dedicando meu tempo ao aprendizado e aprimoramento em diversas áreas, buscando sempre desafios que me permitam crescer como profissional.
 
 <a href="https://github.com/nataliacarvalhinha/github-readme-stats">
-  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=nataliacarvalhinha&icons=true&theme=radical" />
+  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=nataliacarvalhinha&show_icons=true&theme=dracula&rank_icon=github" />
 </a>
 <a href="https://github.com/nataliacarvalhinha/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nataliacarvalhinha&layout=compact&langs_count=8&card_width=320&icons=true&theme=radical" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nataliacarvalhinha&layout=compact&langs_count=8&card_width=320&icons=true&theme=dracula" />
 </a>
 
 
