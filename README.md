@@ -27,5 +27,3 @@ Eu sou estudante de Engenharia Eletrônica e da Computação. Atualmente, estou 
    <a href="https://instagram.com/naticarvalhinha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nataliacarvalhinha&repo=github-readme-stats)](https://github.com/nataliacarvalhinha/github-readme-stats)
