@@ -14,18 +14,18 @@ I enjoy building and improving real-world systems, with a focus on **maintainabl
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/NataliaCarvalhinha/NataliaCarvalhinha/main/profile-summary-card-output/dracula/0-profile-details.svg"
+    src="profile-summary-card-output/dracula/0-profile-details.svg"
     alt="Profile Details"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/NataliaCarvalhinha/NataliaCarvalhinha/main/profile-summary-card-output/dracula/2-most-commit-language.svg"
+    src="profile-summary-card-output/dracula/2-most-commit-language.svg"
     alt="Most Commit Language"
   />
   <img
-    src="https://raw.githubusercontent.com/NataliaCarvalhinha/NataliaCarvalhinha/main/profile-summary-card-output/dracula/3-stats.svg"
+    src="profile-summary-card-output/dracula/3-stats.svg"
     alt="GitHub Statistics"
   />
 </p>
