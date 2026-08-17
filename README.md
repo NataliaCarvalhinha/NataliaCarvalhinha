@@ -14,37 +14,21 @@ I enjoy building and improving real-world systems, with a focus on **maintainabl
 
 <p align="center">
   <img
-    src="profile-summary-card-output/dracula/0-profile-details.svg"
+    src="https://raw.githubusercontent.com/NataliaCarvalhinha/NataliaCarvalhinha/main/profile-summary-card-output/dracula/0-profile-details.svg"
     alt="Profile Details"
   />
 </p>
 
 <p align="center">
   <img
-    src="profile-summary-card-output/dracula/2-most-commit-language.svg"
+    src="https://raw.githubusercontent.com/NataliaCarvalhinha/NataliaCarvalhinha/main/profile-summary-card-output/dracula/2-most-commit-language.svg"
     alt="Most Commit Language"
   />
   <img
-    src="profile-summary-card-output/dracula/3-stats.svg"
+    src="https://raw.githubusercontent.com/NataliaCarvalhinha/NataliaCarvalhinha/main/profile-summary-card-output/dracula/3-stats.svg"
     alt="GitHub Statistics"
   />
 </p>
-
-### 🚀 Featured Projects
-
-<!--
-Add your best projects here.
-
-Example:
-
-**Project Name**  
-Short description of what the project does.  
-`PHP` `Vue.js` `Docker`
-
-**Project Name**  
-Short description of what the project does.  
-`Python` `C` `Linux`
--->
 
 ### 📫 Contact
 
