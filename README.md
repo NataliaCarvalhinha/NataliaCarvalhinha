@@ -10,16 +10,25 @@ I enjoy building and improving real-world systems, with a focus on maintainable 
   <img src="https://skillicons.dev/icons?i=php,python,c,js,vue,html,css,docker,git,linux" alt="Tech Stack" />
 </p>
 
-## 📊 GitHub Statistics
+### 📊 GitHub Statistics
 
-<div align="center">
-  <a href="https://github.com/nataliacarvalhinha">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=nataliacarvalhinha&show_icons=true&theme=dracula&rank_icon=github&hide_border=true" alt="Natalia's GitHub Stats" />
-  </a>
-  <a href="https://github.com/nataliacarvalhinha">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliacarvalhinha&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Natalia's Most Used Languages" />
-  </a>
-</div>
+<p align="center">
+  <img
+    src="profile-summary-card-output/dracula/0-profile-details.svg"
+    alt="Profile Details"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="profile-summary-card-output/dracula/1-repos-per-language.svg"
+    alt="Repositories per Language"
+  />
+  <img
+    src="profile-summary-card-output/dracula/3-stats.svg"
+    alt="GitHub Statistics"
+  />
+</p>
 
 ## 📫 Contact
 
