@@ -21,8 +21,8 @@ I enjoy building and improving real-world systems, with a focus on maintainable 
 
 <p align="center">
   <img
-    src="profile-summary-card-output/dracula/1-repos-per-language.svg"
-    alt="Repositories per Language"
+    src="profile-summary-card-output/dracula/2-most-commit-language.svg"
+    alt="Most Commit Language"
   />
   <img
     src="profile-summary-card-output/dracula/3-stats.svg"
